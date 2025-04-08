@@ -1,0 +1,19 @@
+# Core OpenTelemetry API and SDK
+opentelemetry-api==0.17b0
+opentelemetry-sdk==0.17b0
+
+# Exporter: Jaeger
+opentelemetry-exporter-jaeger==0.17b0
+
+# Instrumentation for Flask and Requests
+opentelemetry-instrumentation==0.17b0
+opentelemetry-instrumentation-flask==0.17b0
+opentelemetry-instrumentation-requests==0.17b0
+
+# Flask (latest stable at the time)
+flask==1.1.2
+jinja2==3.0.3
+
+protobuf==3.20.3
+werkzeug==2.0.3
+itsdangerous==1.1.0
